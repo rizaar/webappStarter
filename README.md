@@ -11,4 +11,4 @@ Inspired by : http://www.theodo.fr/blog/2016/07/a-comprehensive-introduction-to-
 ready to fire! 
  
 #Npm commande
-**npm run build : ** *Bundle js files and put it in dist folder. Copy fonts, styles and images folders in src to dist folder.*
+**npm run build :** *Bundle js files and put it in dist folder. Copy fonts, styles and images folders in src to dist folder.*
